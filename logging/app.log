@@ -1,0 +1,4 @@
+2025-07-22 14:23:57,397 - INFO - Dividing 10 by 2
+2025-07-22 14:23:57,397 - DEBUG - Result: 5.0
+2025-07-22 14:23:57,398 - INFO - Dividing 10 by 0
+2025-07-22 14:23:57,398 - ERROR - Tried to divide by zero!
